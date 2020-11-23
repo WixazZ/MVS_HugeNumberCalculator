@@ -5,7 +5,7 @@ set(SRCS
         main.c
         DataTypes/DoublyLinkedList.c
         IHMHugeNumber/ScanHugeNumber.c
-        IHMHugeNumber/ScanHugeNumber.c
+        IHMHugeNumber/ShowHugeNumber.c
         UseHugeNumber/Operator/HugeFloatOperator.c
         UseHugeNumber/Operator/HugeIntOperator.c
         UseHugeNumber/Operator/HugeUnsignedIntOperator.c
